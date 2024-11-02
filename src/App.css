@@ -1,0 +1,52 @@
+/* App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+
+/* History Section Styling */
+.history {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.history li {
+  margin-bottom: 8px;
+}
+
+/* Custom Button Colors */
+.delete-button {
+  background-color: red;
+  color: white;
+  padding: 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.guess-button {
+  background-color: blue;
+  color: white;
+}
